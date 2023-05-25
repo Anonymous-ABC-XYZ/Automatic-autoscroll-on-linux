@@ -9,6 +9,7 @@ sudo apt install python3
 sudo apt install xinput
 
 Installation and execution:
+
 git clone https://github.com/Anonymous-ABC-XYZ/Automatic-autoscroll-on-linux.git 
 
 sh ~/Automatic-Autoscroll-on-linux/autoscroll.sh
